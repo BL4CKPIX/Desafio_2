@@ -1,0 +1,16 @@
+h1{
+    margin-left: 18%;
+    font-size: 2.5vw;
+}
+.quebra{
+    width: 40vw;
+    height: 80vh;
+}
+section{
+    display: flex;
+    margin-left: 2vw;
+}
+section img{
+    width: 35vw;
+    padding-left: 5vw;
+}
